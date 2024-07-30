@@ -10,14 +10,23 @@ Requirements
 Python 3.x
 requests library
 beautifulsoup4 library
+
+
 Installation
-Clone the repository: git clone github.com/rakeshprajapat10/SQL-Scanner.git
+Clone the repository: 
 
-Change into the project directory: cd  SQL-Scanner
+git clone github.com/rakeshprajapat10/SQL-Scanner.git
 
-Install the required dependencies: pip install -r requirements.txt
+Change into the project directory: 
+
+cd  SQL-Scanner
+
+Install the required dependencies: 
+
+pip install -r requirements.txt
 
 Usage
+
 python Sql-scanner.py https://www.example.com
 
 Replace https://www.example.com with the target website URL you want to scan for vulnerabilities.
