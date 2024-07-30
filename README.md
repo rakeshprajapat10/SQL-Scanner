@@ -25,6 +25,8 @@ Install the required dependencies:
 
 pip install -r requirements.txt
 
+python SQL-Scanner
+
 Usage
 
 python Sql-scanner.py https://www.example.com
