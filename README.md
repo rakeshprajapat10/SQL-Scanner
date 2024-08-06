@@ -15,17 +15,17 @@ beautifulsoup4 library
 Installation
 Clone the repository: 
 
-git clone github.com/rakeshprajapat10/SQL-Scanner.git
+# git clone github.com/rakeshprajapat10/SQL-Scanner.git
 
 Change into the project directory: 
 
-cd  SQL-Scanner
+# cd  SQL-Scanner
 
 Install the required dependencies: 
 
-pip install -r requirements.txt
+# pip install -r requirements.txt
 
-python SQL-Scanner
+# python SQL-Scanner
 
 Usage
 
